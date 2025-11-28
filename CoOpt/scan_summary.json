@@ -1,0 +1,62 @@
+[
+  {
+    "config": "base",
+    "coverage_max": 1.05,
+    "floor_high": 11,
+    "feasible_count": 3,
+    "developed_ratio_min": 1.3188937350503493,
+    "developed_ratio_max": 1.3664393494247964,
+    "developed_ratio_mean": 1.3381229792227998,
+    "energy_min": 4378.942202691578,
+    "energy_max": 4417.747223888482,
+    "energy_mean": 4393.4160740246925
+  },
+  {
+    "config": "A",
+    "coverage_max": 1.06,
+    "floor_high": 11,
+    "feasible_count": 2,
+    "developed_ratio_min": 1.3434684822866396,
+    "developed_ratio_max": 1.456728921872393,
+    "developed_ratio_mean": 1.4000987020795161,
+    "energy_min": 4133.283836949468,
+    "energy_max": 5224.799355629644,
+    "energy_mean": 4679.041596289557
+  },
+  {
+    "config": "B",
+    "coverage_max": 1.08,
+    "floor_high": 11,
+    "feasible_count": 2,
+    "developed_ratio_min": 1.343466117525707,
+    "developed_ratio_max": 1.45674291532221,
+    "developed_ratio_mean": 1.4001045164239585,
+    "energy_min": 4124.943397385326,
+    "energy_max": 5225.788403005038,
+    "energy_mean": 4675.365900195182
+  },
+  {
+    "config": "C",
+    "coverage_max": 1.05,
+    "floor_high": 12,
+    "feasible_count": 1,
+    "developed_ratio_min": 1.343392114691486,
+    "developed_ratio_max": 1.343392114691486,
+    "developed_ratio_mean": 1.343392114691486,
+    "energy_min": 4198.473592780201,
+    "energy_max": 4198.473592780201,
+    "energy_mean": 4198.473592780201
+  },
+  {
+    "config": "D",
+    "coverage_max": 1.06,
+    "floor_high": 12,
+    "feasible_count": 1,
+    "developed_ratio_min": 1.3433905476777772,
+    "developed_ratio_max": 1.3433905476777772,
+    "developed_ratio_mean": 1.3433905476777772,
+    "energy_min": 4212.869427843703,
+    "energy_max": 4212.869427843703,
+    "energy_mean": 4212.869427843703
+  }
+]

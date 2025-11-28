@@ -1,0 +1,57 @@
+{
+  "shape_effects": [
+    {
+      "name": "rectangle",
+      "ci": 1.6401,
+      "vci": 0.8624,
+      "lum_adj": 0.9151,
+      "lum_cluster": 0.4343
+    },
+    {
+      "name": "L",
+      "ci": 1.626,
+      "vci": 1.0177,
+      "lum_adj": 0.9064,
+      "lum_cluster": 1.2252
+    },
+    {
+      "name": "U",
+      "ci": 0.0368,
+      "vci": 1.0044,
+      "lum_adj": 0.9589,
+      "lum_cluster": 1.2006
+    },
+    {
+      "name": "cross",
+      "ci": 0.0034,
+      "vci": 0.1034,
+      "lum_adj": 1.1122,
+      "lum_cluster": 0.0598
+    }
+  ],
+  "service_focus_weights": {
+    "retail": {
+      "neighborhood": 0.0359,
+      "sales": 0.0195,
+      "office": 0.0008,
+      "education": 0.0002
+    },
+    "office": {
+      "neighborhood": 0.0184,
+      "sales": 0.0138,
+      "office": 0.9614,
+      "education": 0.0064
+    },
+    "education": {
+      "neighborhood": 0.0161,
+      "sales": 0.0117,
+      "office": 0.0018,
+      "education": 0.9704
+    }
+  },
+  "green_pattern_weights": {
+    "linear": 1.0115,
+    "ring": 0.9011,
+    "central": 1.0044
+  }
+}

@@ -1,0 +1,32 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+.venv_geo/
+.env
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.zip
+*.exe
+
+# Large artifacts not included in the open-source release
+Visualization/
+work_logs/
+RawData/*
+!RawData/README.md
+Reference/
+RealDis/dataset.csv
+RealDis/match_results.csv
+*.png
+*.pdf
+*.pt
+*.pkl
+*.h5
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db

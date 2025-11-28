@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "cooling_kwh_per_m2_total_mwh": 2097.5662031420143,
+    "cooling_kwh_per_m2_average_kwh_per_m2": 1.4421583549929804,
+    "heating_kwh_per_m2_total_mwh": 4071.8937566853265,
+    "heating_kwh_per_m2_average_kwh_per_m2": 2.7995853446967063,
+    "other_electricity_kwh_per_m2_total_mwh": 6350.729309067476,
+    "other_electricity_kwh_per_m2_average_kwh_per_m2": 4.366373428238522,
+    "developed_area_ratio": 1.4544631634105287,
+    "energy_balance_index": 1.3108309507369995,
+    "total_area_m2": 1000000.0,
+    "penalty": 0.03068180366033868,
+    "penalty_breakdown": {
+      "cap_multi_family_ha": 0.0,
+      "cap_facility_industrial_ha": 0.0,
+      "cap_road_area_ha": 0.03068180366033868,
+      "dev_ratio": 0.0,
+      "outliers": 0.0
+    }
+  },
+  "outliers": []
+}
