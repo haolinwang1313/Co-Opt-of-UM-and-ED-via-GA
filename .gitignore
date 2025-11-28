@@ -20,6 +20,9 @@ RawData/*
 Reference/
 RealDis/dataset.csv
 RealDis/match_results.csv
+CoOpt/results/*/frontier_gen*.json
+CoOpt/results/test/
+CoOpt/results/final_outputs/TimesNewRoman.ttf
 *.png
 *.pdf
 *.pt
