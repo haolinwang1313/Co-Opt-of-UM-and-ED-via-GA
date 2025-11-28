@@ -1,7 +1,7 @@
 # RawData
 
-原始数据（250m/1km 矢量或栅格）未公开。若需复现，请使用自有的合法数据源或按照数据提供方的获取方式与许可要求下载。
+Original 250m/1km vector/raster data are **not public**. To reproduce, use your own licensed sources or follow the provider’s terms.
 
-建议：
-- 将原始数据存放于本目录，但不要提交到仓库。
-- 若提供下载脚本，请在仓库根目录或 scripts/ 下编写，并在 README 中注明使用方式与许可限制。
+Suggestions:
+- Store raw data here locally, but do not commit it.
+- If you provide a download script, place it in the repo root or `scripts/` and document usage and licenses.
