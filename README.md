@@ -1,9 +1,19 @@
-﻿# A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand
+# A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Journal](https://img.shields.io/badge/journal-Applied%20Energy-blue)
+![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.apenergy.2026.128294-blue)
 
-This repository accompanies the paper **"A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand"**, published in *Applied Energy*. It contains public research code, released geospatial data, surrogate assets, optimization outputs, and reproducibility notes for the district-scale urban morphology optimization workflow.
+This repository accompanies the paper **"A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand"**, published in *Applied Energy*, Volume 422, 1 November 2026, Article 128294. It contains public research code, released geospatial data, surrogate assets, optimization outputs, and reproducibility notes for the district-scale urban morphology optimization workflow.
+
+## Paper
+
+- Journal: *Applied Energy*
+- Volume: 422
+- Publication date: 1 November 2026
+- Article number: 128294
+- DOI: [10.1016/j.apenergy.2026.128294](https://doi.org/10.1016/j.apenergy.2026.128294)
+- Authors: Haolin Wang, Zhi Wu, Wei Gu, Pengxiang Liu, Qirun Sun, and Wei Wang
 
 ## Overview
 
@@ -49,7 +59,19 @@ See `data/README.md` and `data/catalog.yaml` for the released data inventory. So
 
 ## Citation
 
-If this repository is useful in your research, please cite the associated paper. DOI, publication year, and author metadata should be filled once the final bibliographic record is available.
+If this repository is useful in your research, please cite the associated paper:
+
+```bibtex
+@article{wang2026surrogate,
+  title = {A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand},
+  author = {Wang, Haolin and Wu, Zhi and Gu, Wei and Liu, Pengxiang and Sun, Qirun and Wang, Wei},
+  journal = {Applied Energy},
+  volume = {422},
+  pages = {128294},
+  year = {2026},
+  doi = {10.1016/j.apenergy.2026.128294}
+}
+```
 
 ## License
 
