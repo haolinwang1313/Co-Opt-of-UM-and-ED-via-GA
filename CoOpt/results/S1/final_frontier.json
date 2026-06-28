@@ -1,0 +1,389 @@
+[
+  {
+    "fitness": [
+      2497.5025460107818,
+      0.8049020171165466
+    ],
+    "summary": {
+      "cooling_kwh_per_m2_total_mwh": 531.4601143132606,
+      "cooling_kwh_per_m2_average_kwh_per_m2": 0.407757152928704,
+      "heating_kwh_per_m2_total_mwh": 1966.0424316975211,
+      "heating_kwh_per_m2_average_kwh_per_m2": 1.5084252663474138,
+      "other_electricity_kwh_per_m2_total_mwh": 5049.596909640546,
+      "other_electricity_kwh_per_m2_average_kwh_per_m2": 3.874249833354307,
+      "developed_area_ratio": 1.3033741051409244,
+      "energy_balance_index": 0.8049020171165466,
+      "total_area_m2": 1000000.0,
+      "penalty": 0.0,
+      "penalty_breakdown": {
+        "cap_multi_family_ha": 0.0,
+        "cap_facility_industrial_ha": 0.0,
+        "cap_road_area_ha": 0.0,
+        "dev_ratio": 0.0,
+        "outliers": 0.0
+      }
+    },
+    "penalty": 0.0,
+    "outliers": [],
+    "feature_stats": {
+      "ci_norm_mean": 0.032549137330768384,
+      "ci_norm_sum": 0.5207861972922941,
+      "vci_norm_mean": 0.6401003463532275,
+      "vci_norm_sum": 10.24160554165164,
+      "gi_norm_mean": 0.10007625580762697,
+      "gi_norm_sum": 1.6012200929220315,
+      "li_norm_mean": 0.29695632368584823,
+      "li_norm_sum": 4.751301178973572,
+      "multi_family_ha_mean": 0.04759278104784151,
+      "multi_family_ha_sum": 0.7614844967654641,
+      "facility_industrial_ha_mean": 8.01024790968918,
+      "facility_industrial_ha_sum": 128.1639665550269,
+      "road_area_ha_mean": 0.6095680803294485,
+      "road_area_ha_sum": 9.753089285271177
+    }
+  },
+  {
+    "fitness": [
+      3198.9555725317177,
+      0.564523458480835
+    ],
+    "summary": {
+      "cooling_kwh_per_m2_total_mwh": 904.2136608390067,
+      "cooling_kwh_per_m2_average_kwh_per_m2": 0.6813892666220618,
+      "heating_kwh_per_m2_total_mwh": 2294.7419116927113,
+      "heating_kwh_per_m2_average_kwh_per_m2": 1.7292511449609724,
+      "other_electricity_kwh_per_m2_total_mwh": 5407.184377469326,
+      "other_electricity_kwh_per_m2_average_kwh_per_m2": 4.074697781092353,
+      "developed_area_ratio": 1.3270148285745393,
+      "energy_balance_index": 0.564523458480835,
+      "total_area_m2": 1000000.0,
+      "penalty": 0.0,
+      "penalty_breakdown": {
+        "cap_multi_family_ha": 0.0,
+        "cap_facility_industrial_ha": 0.0,
+        "cap_road_area_ha": 0.0,
+        "dev_ratio": 0.0,
+        "outliers": 0.0
+      }
+    },
+    "penalty": 0.0,
+    "outliers": [],
+    "feature_stats": {
+      "ci_norm_mean": 0.029830790951445127,
+      "ci_norm_sum": 0.47729265522312203,
+      "vci_norm_mean": 0.6018448580301716,
+      "vci_norm_sum": 9.629517728482746,
+      "gi_norm_mean": 0.10028582627892545,
+      "gi_norm_sum": 1.6045732204628071,
+      "li_norm_mean": 0.2939328182124359,
+      "li_norm_sum": 4.702925091398974,
+      "multi_family_ha_mean": 0.04604363153461551,
+      "multi_family_ha_sum": 0.7366981045538482,
+      "facility_industrial_ha_mean": 8.148898235462593,
+      "facility_industrial_ha_sum": 130.38237176740148,
+      "road_area_ha_mean": 0.6202312532885064,
+      "road_area_ha_sum": 9.923700052616102
+    }
+  },
+  {
+    "fitness": [
+      2687.620555223854,
+      0.7463042140007019
+    ],
+    "summary": {
+      "cooling_kwh_per_m2_total_mwh": 637.6563485645329,
+      "cooling_kwh_per_m2_average_kwh_per_m2": 0.48713743368103235,
+      "heating_kwh_per_m2_total_mwh": 2049.964206659321,
+      "heating_kwh_per_m2_average_kwh_per_m2": 1.5660697255160034,
+      "other_electricity_kwh_per_m2_total_mwh": 5085.653375891117,
+      "other_electricity_kwh_per_m2_average_kwh_per_m2": 3.885183829346216,
+      "developed_area_ratio": 1.3089865497424638,
+      "energy_balance_index": 0.7463042140007019,
+      "total_area_m2": 1000000.0,
+      "penalty": 0.0,
+      "penalty_breakdown": {
+        "cap_multi_family_ha": 0.0,
+        "cap_facility_industrial_ha": 0.0,
+        "cap_road_area_ha": 0.0,
+        "dev_ratio": 0.0,
+        "outliers": 0.0
+      }
+    },
+    "penalty": 0.0,
+    "outliers": [],
+    "feature_stats": {
+      "ci_norm_mean": 0.03309197428202723,
+      "ci_norm_sum": 0.5294715885124357,
+      "vci_norm_mean": 0.6279123614205016,
+      "vci_norm_sum": 10.046597782728025,
+      "gi_norm_mean": 0.1009918881925485,
+      "gi_norm_sum": 1.615870211080776,
+      "li_norm_mean": 0.30338706149061023,
+      "li_norm_sum": 4.854192983849764,
+      "multi_family_ha_mean": 0.07529300343178039,
+      "multi_family_ha_sum": 1.2046880549084862,
+      "facility_industrial_ha_mean": 7.943215010198792,
+      "facility_industrial_ha_sum": 127.09144016318068,
+      "road_area_ha_mean": 0.6337636707765717,
+      "road_area_ha_sum": 10.140218732425147
+    }
+  },
+  {
+    "fitness": [
+      2697.2796012647814,
+      0.604715883731842
+    ],
+    "summary": {
+      "cooling_kwh_per_m2_total_mwh": 730.537819634226,
+      "cooling_kwh_per_m2_average_kwh_per_m2": 0.5574334422333626,
+      "heating_kwh_per_m2_total_mwh": 1966.7417816305556,
+      "heating_kwh_per_m2_average_kwh_per_m2": 1.5007130525664212,
+      "other_electricity_kwh_per_m2_total_mwh": 5153.4891284002415,
+      "other_electricity_kwh_per_m2_average_kwh_per_m2": 3.932345605043019,
+      "developed_area_ratio": 1.3105381993360838,
+      "energy_balance_index": 0.604715883731842,
+      "total_area_m2": 1000000.0,
+      "penalty": 0.0,
+      "penalty_breakdown": {
+        "cap_multi_family_ha": 0.0,
+        "cap_facility_industrial_ha": 0.0,
+        "cap_road_area_ha": 0.0,
+        "dev_ratio": 0.0,
+        "outliers": 0.0
+      }
+    },
+    "penalty": 0.0,
+    "outliers": [],
+    "feature_stats": {
+      "ci_norm_mean": 0.03242926273284316,
+      "ci_norm_sum": 0.5188682037254906,
+      "vci_norm_mean": 0.6437111925585035,
+      "vci_norm_sum": 10.299379080936056,
+      "gi_norm_mean": 0.10039760515097781,
+      "gi_norm_sum": 1.606361682415645,
+      "li_norm_mean": 0.2974654366380526,
+      "li_norm_sum": 4.759446986208841,
+      "multi_family_ha_mean": 0.04068173655658984,
+      "multi_family_ha_sum": 0.6509077849054374,
+      "facility_industrial_ha_mean": 8.020866906089374,
+      "facility_industrial_ha_sum": 128.33387049742998,
+      "road_area_ha_mean": 0.6427392614826231,
+      "road_area_ha_sum": 10.283828183721969
+    }
+  },
+  {
+    "fitness": [
+      2486.251226522824,
+      0.8339007496833801
+    ],
+    "summary": {
+      "cooling_kwh_per_m2_total_mwh": 591.1525192810268,
+      "cooling_kwh_per_m2_average_kwh_per_m2": 0.4518384853153189,
+      "heating_kwh_per_m2_total_mwh": 1895.098707241797,
+      "heating_kwh_per_m2_average_kwh_per_m2": 1.4484900283341058,
+      "other_electricity_kwh_per_m2_total_mwh": 4835.401292084274,
+      "other_electricity_kwh_per_m2_average_kwh_per_m2": 3.6958658289477015,
+      "developed_area_ratio": 1.308327064854793,
+      "energy_balance_index": 0.8339007496833801,
+      "total_area_m2": 1000000.0,
+      "penalty": 0.0,
+      "penalty_breakdown": {
+        "cap_multi_family_ha": 0.0,
+        "cap_facility_industrial_ha": 0.0,
+        "cap_road_area_ha": 0.0,
+        "dev_ratio": 0.0,
+        "outliers": 0.0
+      }
+    },
+    "penalty": 0.0,
+    "outliers": [],
+    "feature_stats": {
+      "ci_norm_mean": 0.03640702578400006,
+      "ci_norm_sum": 0.582512412544001,
+      "vci_norm_mean": 0.6491340633376288,
+      "vci_norm_sum": 10.38614501340206,
+      "gi_norm_mean": 0.09987981777055545,
+      "gi_norm_sum": 1.5980770843288872,
+      "li_norm_mean": 0.29601881839551536,
+      "li_norm_sum": 4.736301094328246,
+      "multi_family_ha_mean": 0.0490749204638705,
+      "multi_family_ha_sum": 0.785198727421928,
+      "facility_industrial_ha_mean": 8.02086690608937,
+      "facility_industrial_ha_sum": 128.33387049742993,
+      "road_area_ha_mean": 0.6371083536217376,
+      "road_area_ha_sum": 10.193733657947801
+    }
+  },
+  {
+    "fitness": [
+      3236.7020810698946,
+      0.5438621640205383
+    ],
+    "summary": {
+      "cooling_kwh_per_m2_total_mwh": 942.1573004688466,
+      "cooling_kwh_per_m2_average_kwh_per_m2": 0.7059252813944383,
+      "heating_kwh_per_m2_total_mwh": 2294.544780601048,
+      "heating_kwh_per_m2_average_kwh_per_m2": 1.7192215876392223,
+      "other_electricity_kwh_per_m2_total_mwh": 5422.236238765463,
+      "other_electricity_kwh_per_m2_average_kwh_per_m2": 4.062690636407372,
+      "developed_area_ratio": 1.3346416756852386,
+      "energy_balance_index": 0.5438621640205383,
+      "total_area_m2": 1000000.0,
+      "penalty": 0.0,
+      "penalty_breakdown": {
+        "cap_multi_family_ha": 0.0,
+        "cap_facility_industrial_ha": 0.0,
+        "cap_road_area_ha": 0.0,
+        "dev_ratio": 0.0,
+        "outliers": 0.0
+      }
+    },
+    "penalty": 0.0,
+    "outliers": [],
+    "feature_stats": {
+      "ci_norm_mean": 0.03505628920560955,
+      "ci_norm_sum": 0.5609006272897528,
+      "vci_norm_mean": 0.6288668235090871,
+      "vci_norm_sum": 10.061869176145393,
+      "gi_norm_mean": 0.10069792111702561,
+      "gi_norm_sum": 1.6111667378724097,
+      "li_norm_mean": 0.28558919787333936,
+      "li_norm_sum": 4.56942716597343,
+      "multi_family_ha_mean": 0.07509239725473957,
+      "multi_family_ha_sum": 1.201478356075833,
+      "facility_industrial_ha_mean": 8.176691310522742,
+      "facility_industrial_ha_sum": 130.82706096836387,
+      "road_area_ha_mean": 0.6119579709702574,
+      "road_area_ha_sum": 9.791327535524118
+    }
+  },
+  {
+    "fitness": [
+      3185.3564117273268,
+      0.5918139815330505
+    ],
+    "summary": {
+      "cooling_kwh_per_m2_total_mwh": 893.2162261808667,
+      "cooling_kwh_per_m2_average_kwh_per_m2": 0.6629013732043297,
+      "heating_kwh_per_m2_total_mwh": 2292.14018554646,
+      "heating_kwh_per_m2_average_kwh_per_m2": 1.7011142789829936,
+      "other_electricity_kwh_per_m2_total_mwh": 5677.005030491824,
+      "other_electricity_kwh_per_m2_average_kwh_per_m2": 4.213195327285614,
+      "developed_area_ratio": 1.3474345691324217,
+      "energy_balance_index": 0.5918139815330505,
+      "total_area_m2": 1000000.0,
+      "penalty": 0.0,
+      "penalty_breakdown": {
+        "cap_multi_family_ha": 0.0,
+        "cap_facility_industrial_ha": 0.0,
+        "cap_road_area_ha": 0.0,
+        "dev_ratio": 0.0,
+        "outliers": 0.0
+      }
+    },
+    "penalty": 0.0,
+    "outliers": [],
+    "feature_stats": {
+      "ci_norm_mean": 0.033109616301882805,
+      "ci_norm_sum": 0.5297538608301249,
+      "vci_norm_mean": 0.6268676386950108,
+      "vci_norm_sum": 10.029882219120173,
+      "gi_norm_mean": 0.09998404273769765,
+      "gi_norm_sum": 1.5997446838031624,
+      "li_norm_mean": 0.30167136083863133,
+      "li_norm_sum": 4.826741773418101,
+      "multi_family_ha_mean": 0.05026699666946256,
+      "multi_family_ha_sum": 0.804271946711401,
+      "facility_industrial_ha_mean": 8.248829902872831,
+      "facility_industrial_ha_sum": 131.9812784459653,
+      "road_area_ha_mean": 0.6150424095994113,
+      "road_area_ha_sum": 9.84067855359058
+    }
+  },
+  {
+    "fitness": [
+      2878.914743741264,
+      0.5940203070640564
+    ],
+    "summary": {
+      "cooling_kwh_per_m2_total_mwh": 784.2537089614787,
+      "cooling_kwh_per_m2_average_kwh_per_m2": 0.5861025828694495,
+      "heating_kwh_per_m2_total_mwh": 2094.661034779785,
+      "heating_kwh_per_m2_average_kwh_per_m2": 1.565419747069029,
+      "other_electricity_kwh_per_m2_total_mwh": 5644.792767981162,
+      "other_electricity_kwh_per_m2_average_kwh_per_m2": 4.2185680262291925,
+      "developed_area_ratio": 1.3380826699686559,
+      "energy_balance_index": 0.5940203070640564,
+      "total_area_m2": 1000000.0,
+      "penalty": 0.0,
+      "penalty_breakdown": {
+        "cap_multi_family_ha": 0.0,
+        "cap_facility_industrial_ha": 0.0,
+        "cap_road_area_ha": 0.0,
+        "dev_ratio": 0.0,
+        "outliers": 0.0
+      }
+    },
+    "penalty": 0.0,
+    "outliers": [],
+    "feature_stats": {
+      "ci_norm_mean": 0.03494008530129581,
+      "ci_norm_sum": 0.559041364820733,
+      "vci_norm_mean": 0.6264504069050213,
+      "vci_norm_sum": 10.02320651048034,
+      "gi_norm_mean": 0.1001315921190831,
+      "gi_norm_sum": 1.6021054739053295,
+      "li_norm_mean": 0.29714554346622263,
+      "li_norm_sum": 4.754328695459562,
+      "multi_family_ha_mean": 0.04707464374894947,
+      "multi_family_ha_sum": 0.7531942999831915,
+      "facility_industrial_ha_mean": 8.200765156366916,
+      "facility_industrial_ha_sum": 131.21224250187066,
+      "road_area_ha_mean": 0.6111936200465538,
+      "road_area_ha_sum": 9.77909792074486
+    }
+  },
+  {
+    "fitness": [
+      2556.4934336784318,
+      0.7797524333000183
+    ],
+    "summary": {
+      "cooling_kwh_per_m2_total_mwh": 653.6644569130503,
+      "cooling_kwh_per_m2_average_kwh_per_m2": 0.5007480953199399,
+      "heating_kwh_per_m2_total_mwh": 1902.8289767653812,
+      "heating_kwh_per_m2_average_kwh_per_m2": 1.4576867011167476,
+      "other_electricity_kwh_per_m2_total_mwh": 5311.754205297828,
+      "other_electricity_kwh_per_m2_average_kwh_per_m2": 4.069137877974568,
+      "developed_area_ratio": 1.3053758227385939,
+      "energy_balance_index": 0.7797524333000183,
+      "total_area_m2": 1000000.0,
+      "penalty": 0.0,
+      "penalty_breakdown": {
+        "cap_multi_family_ha": 0.0,
+        "cap_facility_industrial_ha": 0.0,
+        "cap_road_area_ha": 0.0,
+        "dev_ratio": 0.0,
+        "outliers": 0.0
+      }
+    },
+    "penalty": 0.0,
+    "outliers": [],
+    "feature_stats": {
+      "ci_norm_mean": 0.038390132654077404,
+      "ci_norm_sum": 0.6142421224652385,
+      "vci_norm_mean": 0.6733702914444538,
+      "vci_norm_sum": 10.773924663111261,
+      "gi_norm_mean": 0.1003293544238654,
+      "gi_norm_sum": 1.6052696707818463,
+      "li_norm_mean": 0.293988795561988,
+      "li_norm_sum": 4.703820728991808,
+      "multi_family_ha_mean": 0.044371037613475245,
+      "multi_family_ha_sum": 0.7099366018156039,
+      "facility_industrial_ha_mean": 8.018677079642938,
+      "facility_industrial_ha_sum": 128.298833274287,
+      "road_area_ha_mean": 0.6199469642603979,
+      "road_area_ha_sum": 9.919151428166366
+    }
+  }
+]

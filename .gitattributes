@@ -1,0 +1,6 @@
+*.json text
+*.csv text
+*.md text
+*.py text
+*.sh text eol=lf
+*.gpkg binary

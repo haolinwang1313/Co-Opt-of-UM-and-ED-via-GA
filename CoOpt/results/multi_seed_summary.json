@@ -1,0 +1,30 @@
+[
+  {
+    "scenario": "S1",
+    "feasible_count": 9,
+    "developed_ratio_mean": 1.3193837653720957,
+    "developed_ratio_range": [
+      1.3008092976107024,
+      1.3923374846530054
+    ],
+    "energy_mean": 2873.8762332882034,
+    "energy_range": [
+      2468.420019604785,
+      3275.473631289942
+    ]
+  },
+  {
+    "scenario": "S2",
+    "feasible_count": 15,
+    "developed_ratio_mean": 1.320355499371162,
+    "developed_ratio_range": [
+      1.3017712577273475,
+      1.3551715258345276
+    ],
+    "energy_mean": 3169.9490575741615,
+    "energy_range": [
+      2570.519703675499,
+      4151.506336293018
+    ]
+  }
+]

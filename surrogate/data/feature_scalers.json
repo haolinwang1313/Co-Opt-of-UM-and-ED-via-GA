@@ -1,0 +1,74 @@
+{
+  "ci": {
+    "log_transform": true,
+    "lower_quantile": 0.05,
+    "upper_quantile": 0.95,
+    "clip_low": 0.03845461409759071,
+    "clip_high": 46.46259166770726,
+    "min": 0.03845461409759071,
+    "max": 46.46259166770726
+  },
+  "vci": {
+    "log_transform": true,
+    "lower_quantile": 0.05,
+    "upper_quantile": 0.95,
+    "clip_low": 0.13207265492908288,
+    "clip_high": 6.586483255421486,
+    "min": 0.13207265492908288,
+    "max": 6.586483255421486
+  },
+  "lum": {
+    "log_transform": false,
+    "lower_quantile": null,
+    "upper_quantile": null,
+    "clip_low": null,
+    "clip_high": null,
+    "min": -0.0,
+    "max": 0.8420011381459583
+  },
+  "lum_adjacency": {
+    "log_transform": false,
+    "lower_quantile": null,
+    "upper_quantile": null,
+    "clip_low": null,
+    "clip_high": null,
+    "min": 0.3333333333333333,
+    "max": 1.0
+  },
+  "lum_intensity": {
+    "log_transform": false,
+    "lower_quantile": null,
+    "upper_quantile": null,
+    "clip_low": null,
+    "clip_high": null,
+    "min": 0.0,
+    "max": 1.0
+  },
+  "lum_proximity": {
+    "log_transform": false,
+    "lower_quantile": null,
+    "upper_quantile": null,
+    "clip_low": null,
+    "clip_high": null,
+    "min": 0.0035250075196248,
+    "max": 0.0277735520910706
+  },
+  "gi_mean": {
+    "log_transform": false,
+    "lower_quantile": 0.05,
+    "upper_quantile": 0.95,
+    "clip_low": 0.0,
+    "clip_high": 2.9575183407607668e-05,
+    "min": 0.0,
+    "max": 2.9575183407607668e-05
+  },
+  "li_mean": {
+    "log_transform": false,
+    "lower_quantile": 0.05,
+    "upper_quantile": 0.95,
+    "clip_low": 0.0,
+    "clip_high": 0.004303789591295539,
+    "min": 0.0,
+    "max": 0.004303789591295539
+  }
+}

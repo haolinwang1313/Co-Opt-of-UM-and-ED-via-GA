@@ -1,0 +1,19 @@
+﻿cff-version: 1.2.0
+title: "A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand"
+message: "If you use this repository, please cite the associated paper."
+type: software
+authors:
+  - family-names: TODO
+    given-names: TODO
+date-released: "2026-06-28"
+license: MIT
+repository-code: TODO
+preferred-citation:
+  type: article
+  title: "A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand"
+  authors:
+    - family-names: TODO
+      given-names: TODO
+  journal: "Applied Energy"
+  year: TODO
+  doi: TODO
