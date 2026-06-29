@@ -1,10 +1,9 @@
 # A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand
 
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.apenergy.2026.128294-blue.svg)](https://doi.org/10.1016/j.apenergy.2026.128294)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![EnergyPlus](https://img.shields.io/badge/EnergyPlus-24.1.0-green.svg)](https://energyplus.net/)
-[![Journal](https://img.shields.io/badge/Journal-Applied%20Energy-2f855a.svg)](https://doi.org/10.1016/j.apenergy.2026.128294)
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.apenergy.2026.128294-2563eb.svg)](https://doi.org/10.1016/j.apenergy.2026.128294)
+[![License](https://img.shields.io/badge/License-MIT-f59e0b.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776ab.svg)](https://www.python.org/)
+[![Journal](https://img.shields.io/badge/Journal-Applied%20Energy-0f766e.svg)](https://doi.org/10.1016/j.apenergy.2026.128294)
 
 This repository accompanies the paper **"A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand"** ([*Applied Energy*](https://www.sciencedirect.com/journal/applied-energy), 2026). It contains the public code, released geospatial layers, surrogate model assets, optimization outputs, and reproducibility notes for the district-scale urban morphology optimization workflow.
 
