@@ -1,19 +1,42 @@
-﻿cff-version: 1.2.0
+cff-version: 1.2.0
 title: "A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand"
 message: "If you use this repository, please cite the associated paper."
 type: software
 authors:
-  - family-names: TODO
-    given-names: TODO
+  - family-names: Wang
+    given-names: Haolin
+  - family-names: Wu
+    given-names: Zhi
+  - family-names: Gu
+    given-names: Wei
+  - family-names: Liu
+    given-names: Pengxiang
+  - family-names: Sun
+    given-names: Qirun
+  - family-names: Wang
+    given-names: Wei
 date-released: "2026-06-28"
 license: MIT
-repository-code: TODO
+repository-code: "https://github.com/haolinwang1313/Co-Opt-of-UM-and-ED-via-GA"
 preferred-citation:
   type: article
   title: "A surrogate-assisted framework for district-scale urban morphology optimization toward reduced building energy demand"
   authors:
-    - family-names: TODO
-      given-names: TODO
+    - family-names: Wang
+      given-names: Haolin
+    - family-names: Wu
+      given-names: Zhi
+    - family-names: Gu
+      given-names: Wei
+    - family-names: Liu
+      given-names: Pengxiang
+    - family-names: Sun
+      given-names: Qirun
+    - family-names: Wang
+      given-names: Wei
   journal: "Applied Energy"
-  year: TODO
-  doi: TODO
+  year: 2026
+  volume: 422
+  pages: "128294"
+  doi: "10.1016/j.apenergy.2026.128294"
+  url: "https://doi.org/10.1016/j.apenergy.2026.128294"
